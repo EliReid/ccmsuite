@@ -95,6 +95,6 @@ env.model1=RockPlayer()
 env.model1.choice=env.choice1
 
 ccm.display(env)
-env.run()
+env.run(env)
 
     

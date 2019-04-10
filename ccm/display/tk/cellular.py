@@ -1,4 +1,4 @@
-import Tkinter
+import tkinter
 import math
 
 class CellularRenderer:
